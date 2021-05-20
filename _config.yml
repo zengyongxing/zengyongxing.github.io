@@ -30,7 +30,7 @@ timezone: Asia/Shanghai
 
 # Build settings
 #theme: just-the-docs
-theme: jekyll-theme-slate
+remote-theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
