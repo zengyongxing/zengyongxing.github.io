@@ -30,7 +30,7 @@ timezone: Asia/Shanghai
 
 # Build settings
 #theme: just-the-docs
-theme: Architect
+theme: Cayman
 plugins:
   - jekyll-feed
 
