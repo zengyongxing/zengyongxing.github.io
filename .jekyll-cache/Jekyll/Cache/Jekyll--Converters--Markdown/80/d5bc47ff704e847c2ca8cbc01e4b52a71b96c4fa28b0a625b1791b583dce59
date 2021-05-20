@@ -1,0 +1,36 @@
+I"�<h1 id="使用gem更新theme">使用gem更新theme</h1>
+
+<ul>
+  <li>
+    <p>访问<a href="https://rubygems.org/search?query=jekyll-theme">Gem仓库</a> 选择一个你喜欢的theme</p>
+  </li>
+  <li>
+    <p>修改Gemfile，修改将minama 修改为新的</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#gem "minima", "~&gt; 2.5"
+gem "jekyll-bootstrap-theme"
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>安装新的Gem</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle install
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>修改站点的theme</p>
+
+    <p>打开<code class="language-plaintext highlighter-rouge">_config.yml</code>然后修改theme</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>theme: jekyll-bootstrap-theme
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>重启站点</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+:ET
