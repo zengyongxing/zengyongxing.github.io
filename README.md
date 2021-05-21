@@ -12,6 +12,7 @@ A minimal, sidebar, responsive web design Jekyll theme that focuses on text pres
 
 [![Devices Mockup](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png)](https://chirpy.cotes.info)
 
+
 ## Features
 
 - Pinned Posts
