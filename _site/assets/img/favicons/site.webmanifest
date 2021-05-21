@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Kevin's Notebook",
-  "short_name": "Kevin's Notebook",
-  "description": "Nothing here, unless you find something by yourself.",
+  "name": "zengyongxing's blog",
+  "short_name": "zengyongxing's blog",
+  "description": "zengyongxing's programming notes and thoughts.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

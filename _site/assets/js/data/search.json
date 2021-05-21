@@ -1,34 +1,4 @@
 [
   
-  {
-    "title": "Welcome to Jekyll!",
-    "url": "/jekyll/update/2021/05/20/welcome-to-jekyll.html",
-    "categories": "jekyll, update",
-    "tags": "",
-    "date": "2021-05-20 14:16:30 +0800",
-    
-
-
-
-
-
-    "snippet": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.Jekyll..."
-  },
-  
-  {
-    "title": "使用Gem更新Theme",
-    "url": "/jekyll/2021/05/20/how-to-build-jekyll-site.html",
-    "categories": "jekyll",
-    "tags": "",
-    "date": "2021-05-20 14:16:30 +0800",
-    
-
-
-
-
-
-    "snippet": "使用gem更新theme      访问Gem仓库 选择一个你喜欢的theme        修改Gemfile，修改将minama 修改为新的    #gem &quot;minima&quot;, &quot;~&amp;gt; 2.5&quot;gem &quot;jekyll-bootstrap-theme&quot;            安装新的Gem    bundle install            修改站点的theme    打开_config.yml然后修改theme    theme: jekyll-bootstrap-theme            重启站..."
-  }
-  
 ]
 

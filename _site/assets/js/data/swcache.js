@@ -17,6 +17,14 @@ const resource = [
   '/index.html',
   '/404.html',
   
+    '/categories/',
+  
+    '/tags/',
+  
+    '/archives/',
+  
+    '/about/',
+  
 
   /* --- Favicons --- */
   
@@ -37,7 +45,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'zengyongxing.github.io',
+  '',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',
