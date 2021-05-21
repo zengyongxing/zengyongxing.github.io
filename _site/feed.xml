@@ -4,7 +4,7 @@
   <id>/</id>
   <title>zengyongxing's</title>
   <subtitle>zengyongxing's programming notes and thoughts.</subtitle>
-  <updated>2021-05-22T00:10:14+08:00</updated>
+  <updated>2021-05-22T00:15:49+08:00</updated>
   <author>
     <name>zengyongxing</name>
     <uri>/</uri>
@@ -17,6 +17,39 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>How To Build This Site</title>
+    <link href="/posts/how-to-build-this-site/" rel="alternate" type="text/html" title="How To Build This Site" />
+    <published>2021-05-22T00:00:00+08:00</published>
+  
+    <updated>2021-05-22T00:00:00+08:00</updated>
+  
+    <id>/posts/how-to-build-this-site/</id>
+    <content src="/posts/how-to-build-this-site/" />
+    <author>
+      <name>zengyongxing</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      this  is an example
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
