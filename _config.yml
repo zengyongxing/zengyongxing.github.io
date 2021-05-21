@@ -8,7 +8,7 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: cn-ZH #en-US
+lang: zh-CN #en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -23,13 +23,13 @@ description: >-                        # used by seo meta and the atom feed
   zengyongxing's programming notes and thoughts.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://zengyongxing.github.io'
 
 github:
   username: zengyongxing             # change to your github username
 
 twitter:
-  username: zengyongxing           # change to your twitter username
+  username:            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/zengyongxing       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/zengyongxing
+    #- https://www.linkedin.com/in/zengyongxing
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
