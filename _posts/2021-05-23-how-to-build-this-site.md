@@ -2,7 +2,7 @@
 
 
 
-![](./2021-05-23-how-to-build-this-site.png)
+![](/assets/img/2021-05-23-how-to-build-this-site.png)
 
 
 
