@@ -1,6 +1,7 @@
 ---
-tags: jekyll gitpage markdown
+tags: programming jekyll gitpage markdown
 ---
+
 # 开发运行环境
 
 ![](/assets/img/2021-05-23-how-to-build-this-site.png)
@@ -23,6 +24,8 @@ tags: jekyll gitpage markdown
 # 详细步骤
 
 详细步骤请参考 [Jekyll 官网教程](https://jekyllrb.com/) , [jekyll-theme-chirpy模版](https://github.com/cotes2020/jekyll-theme-chirpy) 和[gitpage](https://pages.github.com/)相关说明。
+
+最终代码参考：[https://github.com/zengyongxing/zengyongxing.github.io.git](https://github.com/zengyongxing/zengyongxing.github.io.git)
 
 # 使用图片
 
