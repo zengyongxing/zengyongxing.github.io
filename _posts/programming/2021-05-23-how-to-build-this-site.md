@@ -38,7 +38,7 @@ Powerpoint制作PNG格式图片的方法：
 
 # 不支持的格式
 
-github.io 支持markdown格式的文本和图片，但是不支持，下列格式：
+github.io 支持markdown格式的文本和图片，但是不支持Markdown的一些扩展，比如说：
 
 - diagram
 - HTML iframe
